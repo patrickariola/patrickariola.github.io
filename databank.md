@@ -1,6 +1,6 @@
 ---
 layout: project
-type: projectg
+type: project
 image: "https://cdn.iconscout.com/icon/free/png-256/free-database-coding-2934638-2461517.png"
 
 

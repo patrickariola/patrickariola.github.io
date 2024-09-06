@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "/img/https://cdn.iconscout.com/icon/free/png-256/free-database-coding-2934638-2461517.png"
+image: "file:///C:/Users/patri/Downloads/databasepic.jpg"
 
 
 

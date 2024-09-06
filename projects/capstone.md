@@ -18,7 +18,7 @@ summary: "A Capstone Project conducting a 21-Day Wellness Plan on 20 people."
 
 .
 
-
+https://docs.google.com/presentation/d/1wc9YgmgTenZ-Tz-NrGv8CpZ4sGNyHZvhE4ffYs-9D6k/edit?usp=sharing
 
 <hr>
 

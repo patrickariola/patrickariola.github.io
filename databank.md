@@ -1,7 +1,7 @@
 ---
 layout: project
-type: project
-image: img/database.jpg
+type: projectg
+image: "https://cdn.iconscout.com/icon/free/png-256/free-database-coding-2934638-2461517.png"
 
 
 title: "UI Databank Record in C/C++"

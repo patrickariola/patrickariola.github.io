@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ![image](https://patrickariola.com/user-attachments/assets/c82a0dcd-77ca-4c50-b496-06851a716e58)
 
-![image](https://github.com/user-attachments/assets/a5b313a0-6766-4b14-a59a-0f3b39998cc7)
+imagE: ![image](https://github.com/user-attachments/assets/a5b313a0-6766-4b14-a59a-0f3b39998cc7)
 
 
 title: "UI Databank Record in C/C++"

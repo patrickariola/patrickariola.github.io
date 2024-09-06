@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/databasepic.jpg
+image: img/databasepic.png
 
 
 

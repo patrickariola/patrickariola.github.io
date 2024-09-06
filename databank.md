@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "file:///C:/Users/patri/Downloads/databasepic.jpg"
+image: img/databasepic.jpg
 
 
 

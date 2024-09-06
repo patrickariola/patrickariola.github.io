@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://github.com/user-attachments/assets/566aca1c-367a-47a6-b89d-e0777af58e62"
+image: ["https://github.com/user-attachments/assets/566aca1c-367a-47a6-b89d-e0777af58e62"](https://cdn.iconscout.com/icon/free/png-256/free-database-coding-2934638-2461517.png)
 
 
 title: "UI Databank Record in C/C++"

@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ![databasepic](https://github.com/user-attachments/assets/d39ae413-7956-4dd2-a316-82d2de42ec1c)
+image: "https://github.com/user-attachments/assets/566aca1c-367a-47a6-b89d-e0777af58e62"
+
 
 title: "UI Databank Record in C/C++"
 date: 2024

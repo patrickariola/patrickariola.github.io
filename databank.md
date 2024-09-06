@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/user-attachments/assets/1e436332-fcce-40c9-947e-4c0994f5e2ac)
+image: img/database.jpg
 
 
 title: "UI Databank Record in C/C++"

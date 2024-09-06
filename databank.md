@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/user-attachments/assets/c82a0dcd-77ca-4c50-b496-06851a716e58)
+image: ![image](https://patrickariola.com/user-attachments/assets/c82a0dcd-77ca-4c50-b496-06851a716e58)
 
 
 

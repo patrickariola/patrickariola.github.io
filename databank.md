@@ -18,7 +18,7 @@ summary: "An interactive database that I developed for ICS 212."
 
 In ICS 212, I created an interactive databank database that accepts, deletes, and stores data handled by the user input in C, which was later translated into C++ as another project. It was the course's pinnacle of assignments as the class taught me to learn C language, and applying that knowledge to a real-world application like the transactions of a bank was both challenging and rewarding. The assignment required us to implement file handling, which meant learning how to read from and write to files efficiently.
 
-
+Inside the project, I created 
 
 <hr>
 

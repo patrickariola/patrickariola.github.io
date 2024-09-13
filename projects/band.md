@@ -17,7 +17,7 @@ summary: "Insight and experiences from the UH Manoa Marching Band"
 
 <div class="d-flex align-items-start p-4">
   <img width="200px" src="../img/bandstands.png" >
-<p> test test aaaa </p>
+<p>        test test aaaa </p>
 </div>
 
 

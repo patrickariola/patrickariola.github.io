@@ -24,7 +24,7 @@ Here is how the plan was formatted: 20 participants (ages 15-18) committed to 21
 
 The project was overseen by an advisor from school and outside school, a community mentor whom I reached out to Anisa Wiseman, the program director of NAMI Hawaii. My mentor directed me to bring about a more effective and impactful approach, offering her insights on mental health. Towards the end of the project, I was interviewed by three official judges who would evaluate my work. I received very high marks and positive feedback, which affirmed me the project's success and the connection I felt with it. It was a very endearing and memorable experience, as it had resonated with me intensely at the time.
 
-To view the results in full details, click <a href="https://docs.google.com/presentation/d/1wc9YgmgTenZ-Tz-NrGv8CpZ4sGNyHZvhE4ffYs-9D6k/edit?usp=sharing">here</a>.</p>
+To view the results in full details, click <a href="https://docs.google.com/presentation/d/1wc9YgmgTenZ-Tz-NrGv8CpZ4sGNyHZvhE4ffYs-9D6k/edit?usp=sharing">here</a>.
 
 
 <hr>

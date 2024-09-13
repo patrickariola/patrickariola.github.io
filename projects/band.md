@@ -9,9 +9,9 @@ title: "UH Manoa Marching Band"
 date: 2021-2023
 published: true
 labels:
-  - MUSIC
-  - MARCHING
-  - COMMUNITY
+  - Music
+  - Marching
+  - Community
 summary: "Insight and experiences from the UH Manoa Marching Band"
 ---
 

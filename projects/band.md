@@ -16,10 +16,12 @@ summary: "Insight and experiences from the UH Manoa Marching Band"
 ---
 
 <div class="float-left p-4">
-  <img width="500px" src="bandstands.png" >
+  <img width="500px" src="../img/bandstands.png" >
 </div>
 
 band badnadn adm
+
+eeee
 
 <hr>
 

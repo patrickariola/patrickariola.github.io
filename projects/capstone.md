@@ -15,7 +15,7 @@ summary: "A Capstone Project conducting a 21-Day Wellness Plan on 20 people."
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/Screenshot 2024-09-12 212337.png" class="img-thumbnail" >
+  <img width="500px" src="../img/Screenshot 2024-09-12 212337.png" class="img-thumbnail" >
 </div>
 
 Amid the COVID-19 pandemic and my senior year of high school, I created my Health Capstone projet targeting what was becoming a very relatable and sensitive topic at the time of lockdown: Mental Health. I found myself struggling with this subject and wanted to take the form of my project in a way that could both express my own experiences and offer support to others facing similar challenges. My goal was to raise awareness, provide resources, and open a way to converse about mental health reducing its stigma all while offering support during a particularly difficult period.

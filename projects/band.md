@@ -16,7 +16,7 @@ summary: "Insight and experiences from the UH Manoa Marching Band"
 ---
 
 <div class="d-flex align-items-start p-4">
-  <img width="200px" src="../img/bandstands.png" style="margin-right: 3rem;" >
+  <img width="200px" src="../img/bandstands.png" style="margin-right: 2rem;" >
  <div class="ml-3">
 <p> In the first four semesters of studying here at UH Manoa, I had the great opportunity to join the UH Manoa Marching Band for the Spring semesters and the concert bands for the Fall semesters. Rehearsals were laid out in a 75-minute fashion spreading out to three days a week during football season. Memorization of music and marching charts along with marching techniques and choreographies were absorbed per every rehearsal. When it came to the football games, frequently on almost every Saturday, I would perform with the band beginning from that day's morning rehearsal until reaching late night when the game ends. A marching performance paired with playing within the stands made sure that our music energized the crowd and team. During the Spring and Fall semesters also included Pep Band performances where the band would play inside the stands playing music for our Men's and Women's Basketball and Volleyball teams. The heart of the band, our dear director, Gwen Nakamura, directed these performances with a cheerful and enthusiastic dedication. </p>
 

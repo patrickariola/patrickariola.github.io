@@ -15,7 +15,7 @@ summary: "An interactive database that I developed for ICS 212."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Screenshot 2024-09-10 092426.png" class="img-thumbnail" >
+  <img width="500px" src="../img/Screenshot 2024-09-10 092426.png" class="img-thumbnail" >
 </div> 
 <img class="img-fluid" src="(Screenshot 2024-09-10 092426.png)">
 

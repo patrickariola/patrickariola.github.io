@@ -15,10 +15,11 @@ labels:
 summary: "Insight and experiences from the UH Manoa Marching Band"
 ---
 
-<img class="img-fluid" src="(https://as1.ftcdn.net/v2/jpg/05/71/15/68/1000_F_571156847_6FtJXvffGNk2K4PSlorTa9C89FBiJUjx.jpg)">
+<div class="float-left p-4">
+  <img width="500px" src="bandstands.png" >
+</div>
 
-
-
+band badnadn adm
 
 <hr>
 

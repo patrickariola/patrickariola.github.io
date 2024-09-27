@@ -7,7 +7,7 @@ date: 2024-09-26
 published: true
 labels:
   - ESLint
-  - VScode
+  - VSCode
 ---
 
 <div class="text-center p-4">

@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/eslintimg.png" class="img-thumbnail" >
+  <img width="320px" src="../img/eslintimg.png" class="img-thumbnail" >
 </div> 
 
 ## The Impact of Coding Standards 

@@ -10,17 +10,9 @@
   --tf-pill-bg: var(--bs-gray);
   --tf-icon-fill: var(--bs-gray);
   --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: #0A192F; /* Bluish-black background */
+  --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--bs-gray-200);
   --tf-projects-bg-color: var(--bs-gray-100);
-  --text-color: #E0E0E0; /* Light gray text for readability */
-  --link-hover-color: #63A0D7; /* Light blue color for links on hover */
-}
-
-/* Apply the background color to the entire page */
-body {
-  background-color: var(--tf-page-bg-color);
-  color: var(--text-color);
 }
 
 /* Format social media icons */
@@ -39,11 +31,6 @@ body {
 
 a {
   text-decoration: none;
-  color: var(--text-color);
-}
-
-a:hover {
-  color: var(--link-hover-color);
 }
 
 @media (max-width: 500px) {

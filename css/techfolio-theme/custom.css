@@ -1,3 +1,9 @@
+/* Force bluish-black background on the body element */
 body {
-  background-color: #0A192F !important; /* Bluish-black background */
+  background-color: #0A192F !important; /* Bluish-black */
+}
+
+/* Make sure other important elements like containers or sections also get the new background */
+.container, .content, .page {
+  background-color: #0A192F !important;
 }

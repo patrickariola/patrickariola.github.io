@@ -11,10 +11,10 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="320px" src="../img/eslintimg.png" class="img-thumbnail" >
+  <img width="320px" src="../img/designpatterns.png" class="img-thumbnail" >
 </div> 
 
-## The Impact of Coding Standards 
+## By Developers, For Developers 
 
 A design pattern is sort of like recipes for coding. Much like having a cookbook in your arsenal, it provides you with already known techniques found and made by cooks like developers in this case. These patterns have been proven over time to be reliable and effective to use in the process of software development. They promote code that is maintainable and easy to understand which allows developers to freely use its applications. Design patterns contribute to a lot of topics such as user interfaces, databases, testing, software processes, and many more. For example, a very useful design pattern would be the prototype pattern. It saves time and resources by using an existing object and modifying it to your needs, much like a prototype. When creating video games, the basic models for characters, weapon designs, and map layouts are all often made using this technique. This is very useful when creating complex objects and using that created object, tweaking it to its needs, and introducing it as another. It is much like using a template so that instead of having to create an object every time, duplication of an already existing object can be used to avoid the hassle and save time. 
 

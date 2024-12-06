@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beyond the Syntax"
+title: "The Cookbooks of Coding"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
 published: true
@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="320px" src="../img/designpatterns.png" class="img-thumbnail" >
+  <img width="320px" src="../img/designpattern.png" class="img-thumbnail" >
 </div> 
 
 ## By Developers, For Developers 

@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/designpattern.png" class="img-thumbnail" >
+  <img width="480px" src="../img/designpattern.png" class="img-thumbnail" >
 </div> 
 
 ## By Developers, For Developers 

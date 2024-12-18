@@ -14,7 +14,9 @@ labels:
 
 The emergence of AI has increasingly transformed the approach of not only software engineering but learning as a whole. It introduced enticing tools such as ChatGPT, Copilot, and Grok. AI undoubtedly revolutionized the fields of education, offering immediate access to sorts of information and reliable methods to tackle problems. Today, these tools have become secondhand to students for the better and the worse. I myself promote the usage of AI and have used the aforementioned tools as a significant aid in my learning to progress in the field of software engineering.
 
+
 # Personal Experience with AI
+
 
 ## 1. Experience WODs
 I have used AI, primarily ChatGPT, in all of the WODs specifically for errors. However, I tackle the prompt first by myself and when I do get stuck, I refer to the video instead of AI first. When there are unclear ideas or curiosity arises I also refer to AI to answer my questions. Depending on the complexity of the WOD, it becomes a common or uncommon occurrence because the videos provided in each of the WODs are helpful code-wise but the explanations for them are not covered in depth.
